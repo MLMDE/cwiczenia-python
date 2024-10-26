@@ -1,2 +1,2 @@
 # cwiczenia-python
-zadania, prace domowe
+Zamierzam tutaj wrzucać zadania, prace domowe i inne ciekawe rzeczy :D
