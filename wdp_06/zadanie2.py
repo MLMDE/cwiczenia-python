@@ -1,2 +1,3 @@
 for i in range(2, 21):
-    print(i, end=" ")
+    if i % 2 == 0:
+        print(i, end=" ")
